@@ -1,0 +1,15 @@
+nav {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: .5rem 2rem;
+}
+
+nav h1 {
+    color: rgb(153,31,72);
+    margin-bottom: .5rem;
+}
+
+nav p {
+    color: rgb(107 114 128);
+    margin-bottom: 2rem;
+}
