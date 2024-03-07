@@ -7,10 +7,6 @@ export const Content = () => {
     <main>
       <section className="main-img">
         <img src={image} alt="" />
-        <div className="main-img-icons">
-            <i class='bx bx-chevron-left'></i>
-            <i class='bx bx-chevron-right' ></i>
-        </div>
       </section>
       <section className="info-box">
         <h1>Think Health. Think Massage</h1>
